@@ -128,4 +128,4 @@ Explore the [sql-docs repository](https://github.com/MicrosoftDocs/sql-docs) on 
 
 Find an article, submit a change, and help the SQL Server community.
 
-Thank you.
+Thank you. aetes
